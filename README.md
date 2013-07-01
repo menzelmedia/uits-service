@@ -1,4 +1,4 @@
-UITS Implementation from scratch for java
+UITS Implementation from scratch in java
 
 Mathias.Menzel-Nielsen@mondiamedia.com
 
