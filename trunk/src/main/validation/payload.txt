@@ -1,0 +1,9 @@
+<metadata>
+    <nonce>NWE3NTQ2</nonce>
+    <Distributor>FIXME</Distributor>
+    <Time>2011-08-29T18:16:22.378+02:00</Time>
+    <ProductID completed="false" type="UPC">upc</ProductID>
+    <AssetID type="ISRC">isrc</AssetID>
+    <UID version="1">userid</UID>
+    <Media algorithm="SHA256">zs9wITZIF7FXFEp/OZUAwhLOGbkvwJCfA9rDm2bl4wg=</Media>
+</metadata>

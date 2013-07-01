@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<uits:UITS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uits="http://www.udirector.net/schemas/2009/uits/1.1">
+<metadata>
+    <nonce>NmJiYjYx</nonce>
+    <Distributor>MondiaMedia</Distributor>
+    <Time>2013-07-01T13:15:02.119+02:00</Time>
+    <ProductID completed="false" type="UPC">upc</ProductID>
+    <AssetID type="ISRC">isrc</AssetID>
+    <UID version="1">userid</UID>
+    <Media algorithm="SHA256">EC5CBB2372503CD14F9B11C12AC19D2D7DC0A34E4AB3D7C4D246792DC899B174</Media>
+</metadata>
+<signature algorithm="RSA2048" canonicalization="none" keyID="6a907831be86acec18206367934b7bd48ef911c5">
+rb+EoHMBXNfwH07iEqRa4ZQBSph9BhY9sHWgfchqjVTr6U3qsgnyMmd5//OWcrRZ
+6+IWvA/pjxbSFi+8DD6+f9M06V7dOAQqJ6Jmy+0B9dnXYl8r/IV9w19L7J9ImrLw
+HSYcNinIbj18K3XsUU4MjyyM55KgGmMtlKX2k0XfBdvM2ZNcjaJ9dhSas5XaeFb+
+LGOsYv7QlzNHstCL1W39L8vUilURFSxcMbcEtdaTrSMUfSYf1rrK98rLZnIVdWRD
+9lMaF+vBMT2ZVrQfp0nbRql0dHxiRd5fxgMbzoi91zr+nf4KHQEdowDLRLNh5Dtt
+rXe4wH30XTk6ZMVPLGwecw==
+</signature>
+</uits:UITS>

@@ -1,0 +1,11 @@
+How to validate (see also UITS spec)
+
+This are samples from the unit tests
+
+You can verify them as follows:+
+
+
+openssl base64 -d -in signature.txt -out sig.bin            
+
+
+openssl dgst -sha256 -verify pub.pem -signature sig.bin  payload.txt 
