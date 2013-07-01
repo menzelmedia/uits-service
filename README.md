@@ -1,5 +1,7 @@
 UITS Implementation from scratch in java
 
+Somewhat dirty, uses openssl, should be changed to native java.
+
 Mathias.Menzel-Nielsen@mondiamedia.com
 
 Copyright (C) 2012 by Mondia Media GmbH
